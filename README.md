@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 alguns do desenvolvedores de kernel podem adicionar otimizacoes nessas kerneis para copilar
+
 Some kernel developers may add optimizations to these kernels for compilation
