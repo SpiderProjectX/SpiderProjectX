@@ -1,5 +1,5 @@
 ![e2a50dd3feea4c1192ba370c974e44dc](https://github.com/user-attachments/assets/9c2ccf83-1216-4cc1-8185-6abcbb59d0ba)
-![SpiderProjectX's
+SpiderProjectX's
 - 👋 Hi, I’m @SpiderProjectX
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
